@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1c8b8f;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h1, h2 {
+    color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td, tr {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color:rgb(154, 152, 152);
+}
+
+th {
+    background-color: rgb(153, 108, 50);
+}
+
+hr {
+    width: 60%;
+    height: 6px;
+    border-color: indianred;
+    background-color: green;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
