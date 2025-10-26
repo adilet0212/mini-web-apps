@@ -1,4 +1,4 @@
-# Mini Web Applications from course "Client-Side Web Development" — Project Gallery
+# Mini Web Applications from course "Client-Side Web Development"
 
 This repository contains multiple small web apps built for the *Client-Side Web Development* course.  
 Each app lives in its own folder and is deployed via GitHub Pages.
@@ -24,7 +24,7 @@ Each app lives in its own folder and is deployed via GitHub Pages.
 
 ### 3) CSV to JSON Converter
 - **Folder:** `/csv-to-json-converter`
-- **Stack:** HTML, JavaScript
+- **Stack:** HTML, CSS, JavaScript
 - **Summary:** Converts CSV to JSON
 
 ## How to develop locally
