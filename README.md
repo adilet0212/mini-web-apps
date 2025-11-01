@@ -6,15 +6,15 @@ Each app lives in its own folder and is deployed via GitHub Pages for easy viewi
 ## Live Demos
 - **Word Cloud Generator**
   Demo: https://adilet0212.github.io/mini-web-apps/word-cloud-generator/
-  README: https://github.com/adilet0212/mini-web-apps/tree/main/word-cloud-generator
+  README: https://github.com/adilet0212/mini-web-apps/tree/main/word-cloud-generator/README.md
 
 - **Multiplication Table Generator**  
   Demo: https://adilet0212.github.io/mini-web-apps/multiplication-table/  
-  README: https://github.com/adilet0212/mini-web-apps/tree/main/multiplication-table
+  README: https://github.com/adilet0212/mini-web-apps/tree/main/multiplication-table/README.md
 
 - **CSV to JSON Converter**  
   Demo: https://adilet0212.github.io/mini-web-apps/csv-to-json-converter/  
-  README: https://github.com/adilet0212/mini-web-apps/tree/main/csv-to-json-converter
+  README: https://github.com/adilet0212/mini-web-apps/tree/main/csv-to-json-converter/README.md
 
 ## Project Folders
 - `/word-cloud-generator` — Generates a word cloud from input text (HTML/CSS/JS).
