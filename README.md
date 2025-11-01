@@ -1,36 +1,33 @@
-# Mini Web Applications from course "Client-Side Web Development"
+# Mini Web Applications — Client-Side Web Development
 
-This repository contains multiple small web apps built for the *Client-Side Web Development* course.  
-Each app lives in its own folder and is deployed via GitHub Pages.
+This repository contains 3 small web apps built for the *Client-Side Web Development* course.
+Each app lives in its own folder and is deployed via GitHub Pages for easy viewing.
 
 ## Live Demos
-- **Word Cloud Generator** → https://adilet0212.github.io/mini-web-apps-1/wordcloudgenerator/  
-- **Multiplication Table Generator** → https://adilet0212.github.io/mini-web-apps-1/multiplication-table/  
-- **CSV to JSON Converter** → https://adilet0212.github.io/mini-web-apps-1/csv-to-json-converter/
+- **Word Cloud Generator**
+  Demo: https://adilet0212.github.io/mini-web-apps/word-cloud-generator/
+  README: https://github.com/adilet0212/mini-web-apps/tree/main/word-cloud-generator
 
-## Projects
-### 1) Word Cloud Generator
-- **Folder:** `/wordcloudgenerator`
-- **Stack:** HTML, CSS, JavaScript
-- **Summary:** Generates a word cloud from input text.
-- **Features:** stop-word removal, size by frequency
-- **Run locally:** open `index.html` in a browser.
+- **Multiplication Table Generator**  
+  Demo: https://adilet0212.github.io/mini-web-apps/multiplication-table/  
+  README: https://github.com/adilet0212/mini-web-apps/tree/main/multiplication-table
 
-### 2) Multiplication Table Generator
-- **Folder:** `/multiplication-table`
-- **Stack:** HTML, CSS, JavaScript
-- **Summary:** Builds a multiplication table from user-provided ranges.
-- **Run locally:** open `index.html`.
+- **CSV to JSON Converter**  
+  Demo: https://adilet0212.github.io/mini-web-apps/csv-to-json-converter/  
+  README: https://github.com/adilet0212/mini-web-apps/tree/main/csv-to-json-converter
 
-### 3) CSV to JSON Converter
-- **Folder:** `/csv-to-json-converter`
-- **Stack:** HTML, CSS, JavaScript
-- **Summary:** Converts CSV file uploaded by user to JSON format.
+## Project Folders
+- `/word-cloud-generator` — Generates a word cloud from input text (HTML/CSS/JS).
+- `/multiplication-table` — Builds a multiplication table from user-provided ranges (HTML/CSS/JS).
+- `/csv-to-json-converter` — Converts uploaded CSV to JSON (HTML/JS).
 
-## How to develop locally
-Clone → open the subfolder → open `index.html` in your browser.
+## Run Locally
+Clone → open a subfolder → open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/adilet0212/mini-web-apps-1.git
-cd <repo-name>
-# then open any folder's index.html
+git clone https://github.com/adilet0212/mini-web-apps.git
+cd mini-web-apps
+# then open any folder's index.html, for example:
+#   word-cloud-generator/index.html
+#   multiplication-table/index.html
+#   csv-to-json-converter/index.html
