@@ -16,15 +16,15 @@ This main page serves as a project gallery linking to the live demos and READMEs
 ## 🚀 Live Demos
 - **Word Cloud Generator**  
   🧩 Demo: https://adilet0212.github.io/mini-web-apps/word-cloud-generator/  
-  📘 README: https://github.com/adilet0212/mini-web-apps/tree/main/word-cloud-generator
+  📘 README: https://github.com/adilet0212/mini-web-apps/blob/main/word-cloud-generator/README.md
 
 - **Multiplication Table Generator**  
   🧮 Demo: https://adilet0212.github.io/mini-web-apps/multiplication-table/  
-  📘 README: https://github.com/adilet0212/mini-web-apps/tree/main/multiplication-table
+  📘 README: https://github.com/adilet0212/mini-web-apps/tree/main/multiplication-table/README.md
 
 - **CSV to JSON Converter**  
   🗂️ Demo: https://adilet0212.github.io/mini-web-apps/csv-to-json-converter/  
-  📘 README: https://github.com/adilet0212/mini-web-apps/tree/main/csv-to-json-converter
+  📘 README: https://github.com/adilet0212/mini-web-apps/tree/main/csv-to-json-converter/README.md
 
 ---
 
